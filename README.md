@@ -1,6 +1,9 @@
 # Viaplay Challenge - Final Exam
 
 You are challenged with the task of replicating a UI. It is a desktop-only web application listing TV series from Viaplay. 
+You need to fork this repository and clone it down to your local computer. Implement the challenge in your forked repository and then when you are done create a PR towards the upstream repository.
+
+Make sure to commit often!
 
 The presented UI looks like this:
 
