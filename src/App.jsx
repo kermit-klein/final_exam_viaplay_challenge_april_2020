@@ -37,9 +37,12 @@ const App = () => {
   return (
     <>
       <div className="fixed-header">
-        <img src="https://kundservice.viaplay.se/wp-content/themes/viaplaycs/assets/dist/images/viaplay_white.svg" />
+        <img
+          src="https://kundservice.viaplay.se/wp-content/themes/viaplaycs/assets/dist/images/viaplay_white.svg"
+          style={{ width: "70px" }}
+        />
       </div>
-      <div>{showSeries}</div>
+      <div id="serie-block">{showSeries}</div>
       <div className="fixed-footer"></div>
     </>
   );
